@@ -194,9 +194,8 @@ Like OpenSuperWhisper, its first-run Microphone and Accessibility permission gra
 
 - Watch the walkthrough: https://youtu.be/5N-okeDdIuI
 - https://github.com/kunchenguid/dotfiles
+
 ## License
 
-This repo is licensed under MIT No Attribution.
-See `LICENSE`.
-
-## 
+This repo is licensed under the MIT License.
+See [LICENSE](LICENSE).

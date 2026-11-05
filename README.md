@@ -32,7 +32,7 @@ Running the switch builds:
 On a brand new Mac, from a bare clone of this repo:
 
 ```sh
-git clone https://github.com/kunchenguid/dotfiles.git
+git clone https://github.com/mdfaridmiah/dotfiles.git
 cd dotfiles
 ```
 
@@ -190,7 +190,7 @@ The cask requires Apple Silicon and macOS 14 or later. Remove it from `casks` in
 It's [Handy](https://handy.computer/), a speech-to-text dictation app.
 Like OpenSuperWhisper, its first-run Microphone and Accessibility permission grants are a manual step Nix can't do for you.
 
-## References
+## Acknowledgements
 
 - Watch the walkthrough: https://youtu.be/5N-okeDdIuI
 - https://github.com/kunchenguid/dotfiles
